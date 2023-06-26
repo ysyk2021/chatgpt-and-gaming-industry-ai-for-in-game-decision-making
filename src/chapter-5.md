@@ -4,7 +4,7 @@ Chapter 4: Understanding ChatGPT
 What is ChatGPT?
 ----------------
 
-ChatGPT is a state-of-the-art chatbot platform that uses advanced natural language processing (NLP) to provide human-like interactions with users. It is based on the Generative Pre-trained Transformer 3 (GPT-3) model, which is known for its ability to generate high-quality, natural-sounding text.
+ChatGPT is a state-of-the-art chatbot platform that uses advanced natural language processing (NLP) to provide human-like interactions with users. It is based on the Generative Pre-trained Transformer 3 (GPT-3.5) model, which is known for its ability to generate high-quality, natural-sounding text.
 
 ChatGPT can be used in a wide range of applications, including virtual assistants, customer service, and personal productivity tools. In the gaming industry, it has emerged as a powerful tool for improving in-game decision making and creating more engaging gaming experiences.
 
