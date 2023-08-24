@@ -1,4 +1,3 @@
-# Introduction
 
 ChatGPT and Gaming Industry: AI for In-Game Decision Making is a comprehensive guide that explores the vast potential of artificial intelligence (AI) in transforming the gaming industry. This book provides an overview of using ChatGPT to create intelligent game agents that can help gamers make better decisions and improve overall gameplay.
 

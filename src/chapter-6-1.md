@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Gaming Industry
-=================================================================================================
 
 The following are the steps to implement ChatGPT in the gaming industry:
 

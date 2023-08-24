@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Gaming Industry
-=========================================================
 
 In this chapter, we will discuss the role of AI and chatbots in the gaming industry. AI and chatbots are transforming the way games are played and experienced, providing more personalized and immersive gameplay experiences for players.
 

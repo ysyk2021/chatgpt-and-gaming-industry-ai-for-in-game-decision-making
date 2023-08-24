@@ -1,5 +1,3 @@
-Factors affecting in-game decision making
-===========================================================================================
 
 In-game decision making is a complex process that is influenced by a variety of factors. In this chapter, we'll explore some of the challenges that game developers face when creating AI algorithms for in-game decision making.
 

@@ -1,5 +1,3 @@
-Potential Advancements in Gaming Industry with ChatGPT
-=========================================================================================================
 
 ChatGPT has the potential to revolutionize the gaming industry and transform the way players make decisions during gameplay. In this chapter, we will explore the potential advancements in the gaming industry with ChatGPT.
 

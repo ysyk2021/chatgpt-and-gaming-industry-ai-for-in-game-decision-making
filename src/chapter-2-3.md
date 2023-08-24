@@ -1,5 +1,3 @@
-Importance of In-Game Decision Making
-===========================================================================
 
 In this chapter, we will discuss the basics of the gaming industry and the importance of in-game decision making. The gaming industry is a rapidly growing industry that continues to evolve and innovate, with in-game decision making being a critical aspect of gameplay.
 

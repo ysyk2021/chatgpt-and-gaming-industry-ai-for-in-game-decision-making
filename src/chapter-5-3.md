@@ -1,5 +1,3 @@
-How ChatGPT can be used for in-game decision making
-=====================================================================================
 
 ChatGPT is an AI-powered chatbot that has the potential to revolutionize the gaming industry by improving in-game decision making. In this chapter, we will explore how ChatGPT works and how it can be used to enhance gameplay experiences.
 

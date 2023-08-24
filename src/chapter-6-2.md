@@ -1,5 +1,3 @@
-Best practices for using ChatGPT in in-game decision making
-===============================================================================================================
 
 When using ChatGPT in in-game decision making, it is essential to follow best practices to ensure maximum effectiveness. In this chapter, we will explore some best practices for using ChatGPT in in-game decision making.
 

@@ -1,5 +1,3 @@
-Impact of These Challenges on Gameplay Experience
-===================================================================================================
 
 In this chapter, we will discuss the challenges in in-game decision making and their impact on gameplay experience. In-game decision making is a critical aspect of gameplay, and challenges in this area can significantly impact the overall player experience.
 

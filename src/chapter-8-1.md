@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential of ChatGPT to revolutionize the gaming industry by improving in-game decision making and creating more engaging and immersive gameplay experiences. Here are some of the key points discussed:
 

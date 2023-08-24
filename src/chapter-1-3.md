@@ -1,5 +1,3 @@
-The Role of ChatGPT in Improving In-Game Decision Making
-======================================================================
 
 In recent years, the gaming industry has seen significant growth and innovation, with video games becoming increasingly complex and immersive. In-game decision making is a critical aspect of gameplay, requiring players to make strategic choices that can influence their overall experience and success.
 

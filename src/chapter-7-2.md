@@ -1,5 +1,3 @@
-Impact of ChatGPT on the Gaming Industry
-===========================================================================================
 
 ChatGPT has already started making an impact on the gaming industry, and its potential for future advancements is immense. In this chapter, we will explore the impact of ChatGPT on the gaming industry.
 

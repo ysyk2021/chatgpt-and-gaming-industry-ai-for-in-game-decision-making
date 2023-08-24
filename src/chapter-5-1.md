@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT (Generative Pre-trained Transformer) is a powerful language model developed by OpenAI that uses deep learning techniques to generate human-like responses to text-based input. It was trained on a large dataset of diverse texts, including books, articles, and web pages, enabling it to generate relevant and coherent responses based on a wide range of topics and contexts.
 

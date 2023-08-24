@@ -1,5 +1,3 @@
-How AI and chatbots can improve in-game decision making
-==================================================================================================================
 
 In recent years, artificial intelligence (AI) and chatbots have emerged as powerful tools for improving in-game decision making in the gaming industry. In this chapter, we'll explore the role of AI and chatbots in the gaming industry and how they can be used to create more immersive and engaging gaming experiences.
 

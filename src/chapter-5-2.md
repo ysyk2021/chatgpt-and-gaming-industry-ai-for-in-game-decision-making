@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a state-of-the-art language model that can generate human-like responses to text-based input. In this chapter, we will explore some of the key features and capabilities of ChatGPT.
 

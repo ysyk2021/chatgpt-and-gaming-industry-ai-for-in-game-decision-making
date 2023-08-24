@@ -1,5 +1,3 @@
-Chapter 6: Future of Gaming Industry with ChatGPT
-=================================================
 
 As ChatGPT continues to evolve and improve, its potential for advancements in the gaming industry is immense. In this chapter, we will explore the potential advancements and impact of ChatGPT on the gaming industry.
 

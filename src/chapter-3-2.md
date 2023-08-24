@@ -1,5 +1,3 @@
-Common Challenges in In-Game Decision Making
-==============================================================================================
 
 In this chapter, we will discuss the common challenges in in-game decision making. In-game decision making is a critical aspect of gameplay, and players must navigate various challenges to make informed and strategic decisions.
 

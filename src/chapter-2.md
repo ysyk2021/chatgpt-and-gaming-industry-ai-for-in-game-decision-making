@@ -1,5 +1,3 @@
-Chapter 1: Basics of Gaming Industry
-====================================
 
 In this chapter, we will discuss the basics of the gaming industry, including its definition, types of games and their mechanics, and the importance of in-game decision making.
 
