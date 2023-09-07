@@ -8,3 +8,7 @@ Throughout this book, readers will learn about the different applications of Cha
 By the end of this book, readers will have a solid understanding of how ChatGPT can be used to create intelligent game agents that can help gamers make better decisions and improve overall gameplay. Whether you are a game developer, technology enthusiast, or simply looking to enhance your own gaming experience, this book will provide valuable insights and practical knowledge on the use of ChatGPT in the gaming industry.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
