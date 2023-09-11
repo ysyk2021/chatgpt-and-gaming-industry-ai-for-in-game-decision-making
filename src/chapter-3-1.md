@@ -1,5 +1,4 @@
-Chapter 5: Factors Affecting In-Game Decision Making
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various factors that can impact in-game decision making and how AI models like ChatGPT can help players navigate through these influences.
 

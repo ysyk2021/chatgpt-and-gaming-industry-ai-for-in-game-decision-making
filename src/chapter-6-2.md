@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for Using ChatGPT in In-Game Decision Making
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the best practices for utilizing ChatGPT in in-game decision making. ChatGPT is a powerful AI model that can enhance player experiences by providing dynamic, interactive responses and assisting with in-game choices. To ensure optimal integration and effective utilization of ChatGPT, the following best practices should be considered.
 

@@ -1,5 +1,4 @@
-Chapter 2: Case Studies of Companies Successfully Implementing ChatGPT in Their Games
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of companies in the gaming industry that have successfully implemented ChatGPT in their games. These examples demonstrate how ChatGPT can enhance player experiences, provide valuable assistance, and improve decision-making processes within different gaming contexts.
 

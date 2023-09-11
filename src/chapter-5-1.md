@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the concept and capabilities of ChatGPT (Chat-based GPT), an advanced AI language model that has revolutionized the gaming industry.
 

@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Gaming Industry
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will define the gaming industry and provide an overview of its key components and characteristics. The gaming industry encompasses a wide range of activities related to the development, publishing, distribution, and consumption of video games.
 

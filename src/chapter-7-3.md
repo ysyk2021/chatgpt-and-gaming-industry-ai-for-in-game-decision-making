@@ -1,5 +1,4 @@
-Chapter 9: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we will draw conclusions from the discussions throughout this book and examine the future outlook for ChatGPT and AI in the gaming industry.
 

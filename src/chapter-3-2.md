@@ -1,5 +1,4 @@
-Chapter 4: Common Challenges in In-Game Decision Making
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges that players face when making decisions within games and how AI models like ChatGPT can assist in overcoming these challenges.
 

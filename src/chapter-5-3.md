@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT Can Be Used for In-Game Decision Making
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT, a powerful AI language model, can be utilized to enhance in-game decision making. By leveraging natural language understanding and generation capabilities, ChatGPT can provide valuable assistance, recommendations, and insights to players, improving their decision-making processes throughout their gaming experiences.
 

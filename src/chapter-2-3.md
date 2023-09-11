@@ -1,5 +1,4 @@
-Chapter 2: Importance of In-Game Decision Making
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of in-game decision making and its impact on the overall gaming experience. Making informed and strategic decisions during gameplay is vital for player engagement, immersion, and the successful completion of game objectives.
 

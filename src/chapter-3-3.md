@@ -1,5 +1,4 @@
-Chapter 6: Impact of These Challenges on Gameplay Experience
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the impact of the challenges discussed earlier on the gameplay experience and how AI models like ChatGPT can mitigate their effects.
 

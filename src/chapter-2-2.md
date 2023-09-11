@@ -1,5 +1,4 @@
-Chapter 3: Types of Games and Their Mechanics
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore different types of games and the unique gameplay mechanics that define each genre. Understanding these mechanics is crucial for developing AI systems, such as ChatGPT, that can provide tailored assistance and recommendations in specific game contexts.
 

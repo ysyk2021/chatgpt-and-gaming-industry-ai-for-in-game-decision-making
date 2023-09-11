@@ -1,5 +1,4 @@
-Chapter 5: How AI and Chatbots Can Improve In-Game Decision Making
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI and chatbots can significantly enhance in-game decision-making processes. By leveraging advanced algorithms, machine learning techniques, and natural language processing, these technologies provide game developers and players with valuable insights, assistance, and intelligent recommendations to make better decisions during gameplay.
 

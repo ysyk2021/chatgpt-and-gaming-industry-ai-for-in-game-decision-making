@@ -1,5 +1,4 @@
-Chapter 6: Impact of ChatGPT on the Gaming Industry
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential impact that ChatGPT, an advanced AI language model, can have on the gaming industry. By providing intelligent and dynamic in-game decision-making assistance, ChatGPT can transform gaming experiences for players and developers alike.
 
